@@ -1,0 +1,33 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "stripe",
+    "Strings": [
+        {
+            "slug": "stripe_settings",
+            "text": "Stripe Settings"
+        },
+        {
+            "slug": "stripe_secret_key",
+            "text": "Stripe Secret Key"
+        },
+        {
+            "slug": "stripe_publishable_key",
+            "text": "Stripe Publishable Key"
+        },
+        {
+            "slug": "stripe_description",
+            "text": "Stripe Description"
+        },
+        {
+            "slug": "stripe_image",
+            "text": "Stripe Image"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}
